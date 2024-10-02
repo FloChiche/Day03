@@ -1,4 +1,3 @@
-
 function getAngryDog(numberOfWoofs)
 {    let result = "";
 		 
